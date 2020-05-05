@@ -11,7 +11,7 @@ export default function Navbar() {
                     <a href="/" className="nav-link">Home</a>
                 </li>
                 <li>
-                    <a href="/about" className="nav-link">About</a>
+                    <a href="/" className="nav-link">About</a>
                 </li>
                 <li>
                     <a href="/" className="nav-link active">Tours</a>
